@@ -1,0 +1,5 @@
+{
+  "name": "Mr Cocktail Bis",
+  "description": "A little app to practice ruby on rails",
+  "addons" : [ "heroku-postgresql"]
+}
